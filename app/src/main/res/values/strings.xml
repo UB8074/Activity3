@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="labelapp">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btn">Sign_in</string>
+    <string name="hsl">Ini tampilan hasil</string>
+    <string name="in_ps">Masukkan password</string>
+    <string name="in_un">Masukkan username</string>
+
+    <string name="app1">PENDAFTARAN</string>
+    <string name="nm">Nama</string>
+    <string name="em">Email</string>
+    <string name="no">No Telpon</string>
+    <string name="dft">Daftar</string>
+    <string name="hint1">Masukkan nama</string>
+    <string name="hint2">Masukkan email</string>
+    <string name="hint3">Masukkan No telpon</string>
+    <string name="hsl2">Tampilan hasil menu 2</string>
+    <string name="hsl3">Tampilan hasil menu 3</string>
+
+</resources>
